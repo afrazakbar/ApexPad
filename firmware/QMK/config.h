@@ -1,0 +1,9 @@
+#pragma once
+#define ENCODERS_PAD_A {D8}
+#define ENCODERS_PAD_B {D7}
+
+#define ENCODER_RESOLUTION 4
+
+#define OLED_DISPLAY_128X32
+
+#define OLED_TIMEOUT 60000

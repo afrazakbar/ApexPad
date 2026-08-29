@@ -1,0 +1,42 @@
+{
+    "manufacturer": "Afraz Akbar",
+    "keyboard_name": "apex_pad",
+    "maintainer": "afrazakbar",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
+
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true,
+        "oled": true
+    },
+
+    "matrix_pins": {
+        "direct": [
+            ["D0", "D1", "D2", "D3", "D9"]
+        ]
+    },
+
+    "url": "",
+
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 1, "y": 0},
+                {"matrix": [0, 4], "x": 2.25, "y": 0},
+                {"matrix": [0, 1], "x": 0, "y": 1.25},
+                {"matrix": [0, 2], "x": 1, "y": 1.25},
+                {"matrix": [0, 3], "x": 2, "y": 1.25}
+            ]
+        }
+    }
+}
