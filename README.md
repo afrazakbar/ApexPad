@@ -18,7 +18,7 @@
 
 ## CAD Model
 
-![ApexPad CAD Model](INSERT_IMAGE_HERE)
+![ApexPad CAD Model](images/Apexpad-exploded.png)
 
 Made in **Tinkercad**. I got tired of fighting with Fusion 360 and switched to Tinkercad. 
 
@@ -28,11 +28,11 @@ Made in **Tinkercad**. I got tired of fighting with Fusion 360 and switched to T
 
 ### Schematic
 
-![ApexPad Schematic](INSERT_IMAGE_HERE)
+![ApexPad Schematic](images/schematic.png)
 
 ### PCB Layout
 
-![ApexPad PCB](INSERT_IMAGE_HERE)
+![ApexPad PCB](images/pcb.png)
 
 ---
 
